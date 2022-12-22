@@ -1,0 +1,3 @@
+Las funcionas lambda forma parte de la programación funcional, normalmente conocidas tambien como
+funciones anónimas y se escriben en linea ahí donde se ejecutan.
+Como cualquier otra función, puede recibir cero o más argumentos y retorna uno o ningún valor.
